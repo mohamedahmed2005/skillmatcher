@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\skillmatch.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\skillmatch.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\core\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\core\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\controllers\\matchingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\controllers\\matchingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\helpers\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\helpers\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\skillmatch.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\skillmatch.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|d:\\asp.net project\\skillmatcher\\skillmatch.api\\skillmatch.api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9053DA-AE57-0BAD-BBC5-74950BC3FA9B}|SkillMatch.API\\SkillMatch.API.csproj|solutionrelative:skillmatch.api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 449,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillMatch.API",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\SkillMatch.API.csproj",
+              "RelativeDocumentMoniker": "SkillMatch.API\\SkillMatch.API.csproj",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\SkillMatch.API.csproj",
+              "RelativeToolTip": "SkillMatch.API\\SkillMatch.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-13T16:32:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Program.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Program.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Program.cs*",
+              "RelativeToolTip": "SkillMatch.API\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:32:23.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SkillMatch.API\\appsettings.json",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\appsettings.json",
+              "RelativeToolTip": "SkillMatch.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T16:32:09.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SkillMatch.API\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:30:39.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "SkillMatch.API\\Core\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:30:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SkillMatch.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:30:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatchingController.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Controllers\\MatchingController.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Controllers\\MatchingController.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Controllers\\MatchingController.cs",
+              "RelativeToolTip": "SkillMatch.API\\Controllers\\MatchingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:30:10.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SkillMatch.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T16:17:23.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Controllers\\JobsController.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "SkillMatch.API\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:30:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Helpers\\PaginationParams.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\PaginationParams.cs",
+              "RelativeToolTip": "SkillMatch.API\\Helpers\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:29:49.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Helpers\\MappingProfile.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "SkillMatch.API\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:27:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkillMatch.API.http",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\SkillMatch.API.http",
+              "RelativeDocumentMoniker": "SkillMatch.API\\SkillMatch.API.http",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\SkillMatch.API.http",
+              "RelativeToolTip": "SkillMatch.API\\SkillMatch.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-13T16:17:39.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Helpers\\ApiResponse.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\ApiResponse.cs",
+              "RelativeToolTip": "SkillMatch.API\\Helpers\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:20:59.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "SkillMatch.API\\Helpers\\JwtHelper.cs",
+              "ToolTip": "D:\\ASP.Net project\\skillmatcher\\SkillMatch.API\\SkillMatch.API\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "SkillMatch.API\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:22:32.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 138,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 334,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
